@@ -2,7 +2,7 @@ from flask import Flask, render_template
 
 app = Flask(__name__)
 
-# Mock data for blog posts
+# Mock data for blog posts _test_
 posts = [
     {
         'title': 'First post',
